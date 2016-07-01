@@ -5,3 +5,5 @@
 知乎专栏：[可可笔记](https://zhuanlan.zhihu.com/cocoanotes)
 
 微信公众号：
+
+![image](https://raw.githubusercontent.com/cyanzhong/CocoaNotes/master/mp.png)
